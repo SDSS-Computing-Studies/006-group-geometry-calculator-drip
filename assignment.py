@@ -47,3 +47,28 @@ def main():
     title()
 
 main()
+
+
+print("====================")
+print("=                  =")
+print("=                  =")
+print("=     Welcome      =")
+print("=        To        =")
+print("=    Calculator    =")
+print("=                  =")
+print("=                  =")
+print("====================")
+
+print("This calculator is for calculating the volume of some shapes")
+print("Choose one of the following shapes to enter: square, rectangle, circle, triangle, pentagon")
+print("After entering the shape, enter a number")
+print("Press c to continue")
+print("Press q to quit")
+
+print("Enter a shape")
+input("")
+print("Enter a number")
+input("")
+
+import math
+
